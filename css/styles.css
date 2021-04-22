@@ -1,0 +1,177 @@
+
+body{
+    width: 100;
+    overflow-x: hidden;
+    font-family: 'Zen Dots', cursive;
+}
+.back{
+    background-image: url(../css/h_img.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 600px;
+    background-size: cover;
+    color: azure;
+    text-align: center;
+    font-size: 60%;
+    padding: 150px;
+    position: relative;
+}
+.back h1{
+    margin-top: 15px;
+    font-size: 40px;
+}    
+.back p{
+    margin-top: 10px;
+    font-size: 120%;
+}
+.mouse{
+    margin-top: 80px;
+}
+.logo{
+    margin-top: 10px; 
+}
+.writing{
+    text-align: center;
+}
+.writing p{
+    font-size: 80%;
+}
+.services{
+    background-image: url(../IP3/assets/backgrounds/s_image.jpg);
+    background-size: cover;
+    height: 250px;
+    text-align: center;
+    padding: 85px;
+    color: azure;
+    font-size: 80%;
+    position: relative;
+}
+.what{
+    text-align: center;
+}
+.col-md-4 {
+    text-align: center;
+}
+#content {
+    display: none;
+}
+.contact{
+    background-image: url(../IP3/assets/backgrounds/c_image.jpg);
+    background-size: cover;
+    height: 480px;
+    position: relative;
+    padding: 90px;
+    text-align: center;
+}
+#dev-content{
+    display: none;
+}
+#prod-content{
+    display: none;
+}
+.portfolio h5{
+    text-align: center;
+}
+.portfolio{
+    margin-left: 10px;
+    margin-right: 15px;
+}
+.contact h5{
+    text-align: center;
+    color: #fff;
+}
+.contact input[type="text"]{
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+}
+.contact input[type="email"]{
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+}
+.put{
+   text-align: center;
+}
+::placeholder {  
+    color: white; 
+} 
+#message{
+    margin-left: 120px;
+}
+.end{
+    text-align: center;
+}
+.icon{
+    margin-left: 270px;
+}
+textarea{
+    background: transparent;
+    color: #fff;
+}
+#text1{
+    display: none;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    height: 100;
+    color: #fff;
+}
+#text2{
+    display: none;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    height: 100;
+}
+#text3{
+    display: none;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    height: 100;
+}
+#text4{
+    display: none;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    height: 100;
+}
+#text5{
+    display: none;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    height: 100;
+}
+#text6{
+    display: none;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    height: 100;
+}
+#text7{
+    display: none;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    height: 100;
+}
+#text8{
+    display: none;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    height: 100;
+}
+.fade{
+    opacity: 0;
+}
